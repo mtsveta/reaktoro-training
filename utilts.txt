@@ -1,0 +1,4 @@
+$ git clone https://github.com/mtsveta/reaktoro-training.git
+$ cd reaktoro-training
+$ conda env create -f environment.yml
+$
