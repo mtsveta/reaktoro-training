@@ -1,0 +1,15 @@
+name: reaktoro-training
+
+channels:
+  - conda-forge
+
+dependencies:
+  - reaktoro
+  - pip
+  - pip:
+    - numpy
+    - numba
+    - matplotlib
+    - bokeh
+    - pandas
+    - jupyterlab
